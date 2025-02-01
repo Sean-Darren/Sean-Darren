@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently study on **City University of Hong Kong**
 
-- 🌱 I’m currently learning **ReactJS, Tailwind, and Machine Learning**
+- - 📌 Based in Hong Kong
 
-- 📌 Based in Hong Kong
+- 🌱 I’m currently learning **ReactJS, Tailwind, and Machine Learning**
 
 - 📫 How to reach me **seandarren00@gmail.com**
 
