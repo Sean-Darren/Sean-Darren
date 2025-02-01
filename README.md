@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **ReactJS, Tailwind, and Machine Learning**
 
+- 📌 Based in Hong Kong
+
 - 📫 How to reach me **seandarren00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
