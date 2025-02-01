@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently study on **City University of Hong Kong**
 
-- - 📌 Based in Hong Kong
+- 📌 Based in Hong Kong
 
 - 🌱 I’m currently learning **ReactJS, Tailwind, and Machine Learning**
 
