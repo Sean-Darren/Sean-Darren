@@ -21,3 +21,5 @@
 <h3 align="left">Statistics:</h3>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/seandarren?theme=dark&font=Poppins)
+
+![Codewars](https://github.r2v.ch/codewars?user=seandarren&hide_clan=true&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
