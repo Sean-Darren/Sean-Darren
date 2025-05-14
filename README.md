@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sean Darren Timothy</h1>
-<h3 align="center">A passionate Front-End Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">A passionate Full Stack Developer from Indonesia 🇮🇩</h3>
 
 - 🔭 I’m currently study on **City University of Hong Kong**
 
