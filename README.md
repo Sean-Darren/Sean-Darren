@@ -5,7 +5,7 @@
 
 - 📌 Based in **Hong Kong**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **NextJs and BackEnd**
 
 - 📫 How to reach me **seandarren00@gmail.com**
 
